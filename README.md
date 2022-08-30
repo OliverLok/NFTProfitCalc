@@ -1,1 +1,1 @@
-# NFTProfitCalc
+# NFTProfitCalculator
